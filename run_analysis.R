@@ -1,4 +1,3 @@
-setwd('C:/Users/oophilli/Desktop/Coursera/R Programming/Getting and Cleaning Data/run_analysis/UCI HAR Dataset')
 library(tidyverse)
 
 # Load the features names which is used to name columns for the features (X) data set
